@@ -1,0 +1,20 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "lo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halil180/React-HiCoders.git"
+  },
+  "author": "Halil K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/halil180/React-HiCoders/issues"
+  },
+  "homepage": "https://github.com/halil180/React-HiCoders#readme"
+
+}
