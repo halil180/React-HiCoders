@@ -1,0 +1,6 @@
+Nested Components ANALIZ
+1.verilmis olan json dosyasi baz alinarak kullacinin profili ekrana yazdirilacak
+2.ekranda kullanici bilgileri, cocuklarinin ve arkadaslarinin bilgileri  gozukecek
+3.3 ana komponent olacak: person , children , friends 
+4.her kullanici icn kart olusturulacak
+5.app komponentinde kullanici isim degistirilince  girilen kullanicinin bilgileri render edilecek
