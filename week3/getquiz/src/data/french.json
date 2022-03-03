@@ -1,0 +1,86 @@
+[
+    {
+        "question": "la craie",
+        "answers":[
+            {"answer":"chalk", "isCorrect": "true"},
+            {"answer":"class", "isCorrect": "false"},
+            {"answer":"computer science", "isCorrect": "false"},
+            {"answer":"book", "isCorrect": "false"}
+        ]
+    },{
+        "question": "l'automne",
+        "answers":[
+            {"answer":"bad weather", "isCorrect": "false"},
+            {"answer":"fall", "isCorrect": "true"},
+            {"answer":"cold", "isCorrect": "false"},
+            {"answer":"cool", "isCorrect": "false"}
+        ]
+    }
+    ,{
+        "question": "jaune poussin",
+        "answers":[
+            {"answer":"canary", "isCorrect": "true"},
+            {"answer":"cherry colored", "isCorrect": "false"},
+            {"answer":"blond", "isCorrect": "false"},
+            {"answer":"beige", "isCorrect": "false"}
+        ]
+    }  ,{
+        "question": "déçu",
+        "answers":[
+            {"answer":"handsome", "isCorrect": "false"},
+            {"answer":"jealous", "isCorrect": "false"},
+            {"answer":"disappointed", "isCorrect": "true"},
+            {"answer":"happy", "isCorrect": "false"}
+        ]
+    }
+    ,{
+        "question": "le cuisinier",
+        "answers":[
+            {"answer":"farmer", "isCorrect": "false"},
+            {"answer":"cook", "isCorrect": "true"},
+            {"answer":"doctor", "isCorrect": "false"},
+            {"answer":"firefighter", "isCorrect": "false"}
+        ]
+    }  ,{
+        "question": "le gant",
+        "answers":[
+            {"answer":"gold", "isCorrect": "false"},
+            {"answer":"handicraft", "isCorrect": "false"},
+            {"answer":"gloves", "isCorrect": "true"},
+            {"answer":"hair dryer", "isCorrect": "false"}
+        ]
+    }  ,{
+        "question": "la chambre à coucher",
+        "answers":[
+            {"answer":"bureau", "isCorrect": "false"},
+            {"answer":"bath tub", "isCorrect": "false"},
+            {"answer":"bedroom", "isCorrect": "true"},
+            {"answer":"bedspread", "isCorrect": "false"}
+        ]
+    }  ,{
+        "question": "tableau",
+        "answers":[
+            {"answer":"newspaper", "isCorrect": "false"},
+            {"answer":"novel", "isCorrect": "false"},
+            {"answer":"museum", "isCorrect": "false"},
+            {"answer":"painting", "isCorrect": "true"}
+        ]
+    }  ,{
+        "question": "le sèche-cheveux",
+        "answers":[
+            {"answer":"hair dryer", "isCorrect": "true"},
+            {"answer":"handbag", "isCorrect": "false"},
+            {"answer":"gigh heels", "isCorrect": "false"},
+            {"answer":"hat", "isCorrect": "false"}
+        ]
+    }
+    ,{
+        "question": "publicité",
+        "answers":[
+            {"answer":"documentary", "isCorrect": "false"},
+            {"answer":"comedy", "isCorrect": "false"},
+            {"answer":"fine arts", "isCorrect": "false"},
+            {"answer":"advertisement", "isCorrect": "true"}
+        ]
+    }
+]
