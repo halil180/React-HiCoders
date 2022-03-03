@@ -1,0 +1,8 @@
+quiz game analyse
+
+1.create a small quiz that will show the meaning of the given words in English (english to german && english to french ?)
+2.create a main menu where you can select the language 
+3.This application  shows a random word and four English options will appear on the screen
+4.One of the options must be true and the other three must be false. 
+5.The score will be updated after each question is answered.
+6.once the quiz has been finished the user will be able to start again or go back to main menu to choose language
