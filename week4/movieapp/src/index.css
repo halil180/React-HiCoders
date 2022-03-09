@@ -1,0 +1,155 @@
+.App {
+  text-align: center;
+}
+.errorImage {
+  height: 200px;
+}
+#movieCover {
+  border-radius: 100px;
+  padding: 20px;
+  height: 100vh;
+}
+.description {
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+}
+.d-header {
+  /* background-color: yellow; */
+  display: flex;
+  justify-content: space-between;
+}
+.d-plot {
+  color: wheat;
+  overflow: scroll;
+}
+.d-footer {
+  color: wheat;
+  display: flex;
+  justify-content: space-around;
+}
+.YearAndRuntime {
+  color: wheat;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.movieTitle {
+  display: flex;
+  background-color: red;
+  align-items: center;
+}
+.imdbIcon {
+  background-color: #282c34;
+  color: yellow;
+  font-size: 250%;
+}
+.casting {
+  /* background-color: aqua; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: start;
+}
+.languages {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  text-align: start;
+  padding: 2%;
+}
+.ratings {
+  border: 10px double rgb(228, 180, 76);
+  color: wheat;
+  border-radius: 5px;
+  padding: 10px;
+}
+.bg-container {
+  background-color: #0a2336;
+}
+.title {
+  color: rgb(228, 180, 76);
+}
+.search-container {
+  
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: #0a2336;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.card {
+  margin: 10px;
+}
+body {
+  background-color: #0a2336 !important;
+}
+.customButton {
+  width: 150px;
+  height: 50px;
+  letter-spacing: 0.5px;
+  background-color: #e0314b;
+  color: white;
+  font-size: 32px;
+  border: 1.5px solid #e0314b;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.active {
+  background-color: rgb(228, 180, 76);
+  border: 1.5px solid rgb(25, 26, 24);
+}
+.bg-card {
+  background-color: #e0314b !important;
+}
+#errorMessage {
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: wheat;
+}
+#searchContainer {
+  display: flex;
+  align-items: end;
+}
+#chooseTypeButtons:hover {
+  color: black;
+  cursor: pointer;
+}
+input {
+  border-radius: 20px;
+}
+#searchButton {
+  background-color: #e0314b;
+  border: none;
+  border-radius: 10px;
+  margin-right: 10%;
+}
+#infoBtn {
+  background-color: rgb(228, 180, 76);
+  border: none;
+  color: #0a2336;
+}
+#infoBtn:hover {
+  background-color: #0a2336;
+  color: rgb(228, 180, 76);
+  border: none;
+}
+/* responsive css */
+@media (max-width: 600px) {
+  .customButton {
+    background-color: #e0314b;
+    color: white;
+    border: 1.5px solid #e0314b;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+}
