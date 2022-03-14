@@ -1,0 +1,26 @@
+
+ANALYSE  React Router
+
+In this assignment, im expected  to create the following mock-up using a React router.
+
+HOME , ABOUT CONTACT
+
+[HOME]
+HOME
+
+
+[ABOUT]
+ABOUT
+
+[CONTACT]
+CONTACT
+
+1.use react router to route between pages
+2.use links to go to different sections
+3.make use of navbar to provide a navigation within the page
+
+
+dependencies  
+ bootstrap
+ react-router-dom
+ react-bootstrap
