@@ -1,0 +1,20 @@
+{
+  "employee": [
+    {
+      "firstName": "Halil",
+      "lastName": "Komurcu",
+      "email": "halil@gmail.com",
+      "password": "1234",
+      "about": "If I had to describe myself in one word, it would be bad at following directions",
+      "id": 1
+    },
+    {
+      "firstName": "snoop",
+      "lastName": "dog",
+      "email": "snoopydog@hotmail.com",
+      "password": "double-g",
+      "about": "I wanna thank me for having no days off. I wanna thank me for never quitting. I wanna thank me for always being a giver and trying to give more than I receive.",
+      "id": 2
+    }
+  ]
+}
