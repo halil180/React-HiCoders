@@ -1,0 +1,18 @@
+ANALYSE HTTP Request(fetch)
+
+The user form must contain the contact information (Name, Surname, Gender, Date of Birth, E-mail, Password, About me)
+ 
+1. design a user registration
+2.he user form must contain the contact information (Name, Surname, Gender, Date of Birth, E-mail, Password, About me)
+3.create a fake API yourself
+4.use the json-server library for this
+5. Create a file called db.json. This file will be your database
+6.pull the data from the from the user and save it to the database
+
+
+-user should be able to DELETE(use METHOD:'DELETE') AND EDIT(use METHOD:'PUT') their input
+
+
+install;
+--bootstrap 
+-- json server
