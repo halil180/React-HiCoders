@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "firstName": "Halil",
+      "lastName": "Komurcu",
+      "email": "halil@gmail.com",
+      "password": "1234",
+      "about": "If I had to describe myself in one word, it would be bad at following directions",
+      "id": 1
+    },
+    {
+      "firstName": "Daffy",
+      "lastName": "Duck",
+      "email": "daffy@duck.com",
+      "password": "warnerbros",
+      "about": "Daffy Dumas (also known by Sheldon, Idiot Eyes or Armando) Duck is an animated cartoon character produced by Warner Bros. Animation. He has appeared in cartoon series such as Looney Tunes and Merrie Melodies, where he usually has been depicted as a rival and occasional best friend of Bugs Bunny.",
+      "id": 2
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Jordan",
+      "email": "michael123@gmail.com",
+      "password": "1963",
+      "about": "Michael Jeffrey Jordan, also known by his initials MJ, is an American businessman and former professional basketball player. His biography on the official National Basketball Association website states: \"By acclamation, Michael Jordan is the greatest basketball player of all time.\"",
+      "id": 3
+    }
+  ]
+}
