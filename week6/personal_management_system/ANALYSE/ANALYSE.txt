@@ -1,0 +1,19 @@
+ANALYSE HTTP Request(fetch)
+ 
+1. create a personnel management system for the HR department.
+HR will be able to see the personnel list or go to the page of a certain selected personnel. At the same time, 
+they will be able to add personnel to the system, update personnel and delete personnel.
+2.the user form must contain the contact information (Name, Surname, Gender, Date of Birth, E-mail, Password, About me)
+3.create a fake API yourself
+4.use the json-server library for this
+5. Create a file called db.json. This file will be your database
+6.pull the data from the from the user and save it to the database
+
+
+-user should be able to DELETE(use METHOD:'DELETE') AND EDIT(use METHOD:'PUT') their input
+-create personDetail component to see the personal list 
+
+install;
+--bootstrap 
+--json server
+--icons (font awesome or something like that)

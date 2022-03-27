@@ -1,0 +1,12 @@
+{
+  "employee": [
+    {
+      "firstName": "Halil Süheyl",
+      "lastName": "Komurcu",
+      "email": "halil@gmail.com",
+      "password": "1234",
+      "about": "If I had to describe myself in one word, it would be bad at following directions",
+      "id": 1
+    }
+  ]
+}
