@@ -1,0 +1,11 @@
+ANALYSE Login Component
+
+1.create a simple sign-up form
+2.create result Component
+3.it should display the information entered just below the sign-up form
+once all required data is provided and submitted.
+
+
+
+1.use react router for routing pages (?)
+2.use useState to hold the user's data

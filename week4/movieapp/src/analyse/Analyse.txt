@@ -1,0 +1,23 @@
+ANALYSE
+In this assignment i am  asked to write an
+ application using one of the public APIs given below.
+
+Weather Inquiry: https://www.weatherbit.io/api/weather-current
+Currency translation and inquiry: https://www.frankfurter.app/docs/
+API for Chuck Norris quotes: https://api.chucknorris.io/
+Movie Knowledge Base: http://www.omdbapi.com/
+English vocabulary database: https://developer.wordnik.com/
+
+i choose =>  Movie Knowledge Base: http://www.omdbapi.com/
+
+ToDOs
+1.create a movie app, this app will display informations about movies
+2.list the movies on the opening screen (like netflix ?)
+3.user will be able to search for movies 
+3.when users clicks a movie  they will be directed to a new path with the informations about the clicked movie
+
+technologies i need;
+    react router 
+    bootstrap
+    react bootstrap
+    font awesome
