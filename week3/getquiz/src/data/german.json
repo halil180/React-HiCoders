@@ -1,0 +1,86 @@
+[
+    {
+        "question": "Apfel",
+        "answers":[
+            {"answer":"Car", "isCorrect": "false"},
+            {"answer":"Apple", "isCorrect": "true"},
+            {"answer":"Book", "isCorrect": "false"},
+            {"answer":"window", "isCorrect": "false"}
+        ]
+    },{
+        "question": "billig",
+        "answers":[
+            {"answer":"curly", "isCorrect": "false"},
+            {"answer":"cheap", "isCorrect": "true"},
+            {"answer":"bitter", "isCorrect": "false"},
+            {"answer":"tired", "isCorrect": "false"}
+        ]
+    }
+    ,{
+        "question": "die Schildkröte",
+        "answers":[
+            {"answer":"turtle", "isCorrect": "true"},
+            {"answer":"camel", "isCorrect": "false"},
+            {"answer":"jellyfish", "isCorrect": "false"},
+            {"answer":"squirrel", "isCorrect": "false"}
+        ]
+    }  ,{
+        "question": "durstig",
+        "answers":[
+            {"answer":"astonished", "isCorrect": "false"},
+            {"answer":"thirsty", "isCorrect": "true"},
+            {"answer":"undecided", "isCorrect": "false"},
+            {"answer":"hopeless", "isCorrect": "false"}
+        ]
+    }
+    ,{
+        "question": "die Leber",
+        "answers":[
+            {"answer":"toe", "isCorrect": "false"},
+            {"answer":"shoulder", "isCorrect": "false"},
+            {"answer":"liver", "isCorrect": "true"},
+            {"answer":"vene", "isCorrect": "false"}
+        ]
+    }  ,{
+        "question": "mutig",
+        "answers":[
+            {"answer":"modest", "isCorrect": "false"},
+            {"answer":"brave", "isCorrect": "true"},
+            {"answer":"punctual", "isCorrect": "false"},
+            {"answer":"stingy", "isCorrect": "false"}
+        ]
+    }  ,{
+        "question": "der Anwalt",
+        "answers":[
+            {"answer":"witness", "isCorrect": "false"},
+            {"answer":"judge", "isCorrect": "false"},
+            {"answer":"robbery", "isCorrect": "false"},
+            {"answer":"lawyer", "isCorrect": "true"}
+        ]
+    }  ,{
+        "question": "die Taube",
+        "answers":[
+            {"answer":"duck", "isCorrect": "false"},
+            {"answer":"owl", "isCorrect": "false"},
+            {"answer":"sheep", "isCorrect": "false"},
+            {"answer":"piegon", "isCorrect": "true"}
+        ]
+    }  ,{
+        "question": "überwältigt",
+        "answers":[
+            {"answer":"confident", "isCorrect": "false"},
+            {"answer":"thankful", "isCorrect": "false"},
+            {"answer":"overwhelmed", "isCorrect": "true"},
+            {"answer":"scared", "isCorrect": "false"}
+        ]
+    }
+    ,{
+        "question": "hoffnungsvoll",
+        "answers":[
+            {"answer":"pleased", "isCorrect": "false"},
+            {"answer":"hopeful", "isCorrect": "true"},
+            {"answer":"hurt", "isCorrect": "false"},
+            {"answer":"hesitant", "isCorrect": "false"}
+        ]
+    }
+]
