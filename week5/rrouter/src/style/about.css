@@ -1,0 +1,23 @@
+#tictactoeImg{
+    height: 100px;
+}
+.about-flex-container{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+section{
+    color: rgb(224, 219, 219);
+    padding: 5%;
+}
+.about-Header{
+color: black;
+}
+.align-firstP{
+    padding-left: 5%;
+}
+.horizontalLine{
+    color: white;
+    border: 5px solid white;
+}
