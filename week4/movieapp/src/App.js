@@ -11,7 +11,7 @@ const  App = () => {
   const [imdbID, setimdbID] = useState(); ///we use this state to fetch to detailed data (beacuse we can't get detailed info just by entering the serie name(s=${contentName} see line 15)  you will understand why if you look at the console in home page and in /info page)
   const [movieInfo, setMovieInfo] = useState();////with this state we get the detailed info for the movies(if this doesn't make sens look at the responses you get when you click info in console)
   const getData = async () => {
-    const response = await fetch(`http://www.omdbapi.com/?s=${contentName}&apikey=d9b45705&type=${typeOfSearch}`)
+    const response = await fetch(`https://www.omdbapi.com/?s=${contentName}&apikey=d9b45705&type=${typeOfSearch}`)
     const data = await response.json();
     setMovie(data.Search);
   }
@@ -33,7 +33,7 @@ const  App = () => {
   const clickHandler = (id) => {
     setimdbID(id); 
     // console.log(id)
-    fetch(`http://www.omdbapi.com/?i=${id}&apikey=d9b45705`)
+    fetch(`https://www.omdbapi.com/?i=${id}&apikey=d9b45705`)
       .then((resp) => resp)
       .then((resp) => resp.json())
       .then((response) => {
@@ -51,7 +51,7 @@ const  App = () => {
       <BrowserRouter>
         <Routes>
           <Route
-            path="/info"
+            path="/React-HiCoders"
             element={
               <DetailedInfo movieInfo={movieInfo} setimdbID={setimdbID} />
             }
