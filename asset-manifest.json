@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-HiCoders/static/css/main.32565a82.css",
+    "main.js": "/React-HiCoders/static/js/main.be490e02.js",
+    "static/media/noImage.png": "/React-HiCoders/static/media/noImage.b21add8f8faeb33dea19.png",
+    "index.html": "/React-HiCoders/index.html",
+    "main.32565a82.css.map": "/React-HiCoders/static/css/main.32565a82.css.map",
+    "main.be490e02.js.map": "/React-HiCoders/static/js/main.be490e02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32565a82.css",
+    "static/js/main.be490e02.js"
+  ]
+}
